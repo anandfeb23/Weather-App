@@ -12,6 +12,7 @@
 106D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\dotenv\config.d.ts133593986439148571 0
 93D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\bn.js133593986437139321 1
 118D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\nanoid\async\index.browser.cjs133593986435288506 0
+97D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\dist\index.97a9311a.js133594020910105827 0
 128D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\tailwindcss\lib\util\configurePlugins.js133593986443520037 0
 107D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\weak-lru-cache\dist133593986434346108 1
 116D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\react\react.shared-subset.js133593986440996876 0
@@ -28,7 +29,7 @@
 105D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\mdn-data\index.js133593986436640877 0
 159D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\cleanupListOfValues.js133593986439660671 0
 115D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\semver\ranges\intersects.js133593986440982182 0
-90D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\dist\index.html133594013906109184 0
+90D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\dist\index.html133594020908734473 0
 95D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\reusify133593986438060969 1
 140D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\xast.js133593986444917356 0
 124D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\css-tree\lib\syntax\config\walker.js133593986448061334 0
@@ -36,19 +37,20 @@
 160D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\convertTransform.js133593986441399181 0
 143D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\walker133593986444543084 1
 129D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\yaml\browser\dist\schema\yaml-1.1\bool.js133593986440827198 0
-101D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\dist\index.97a9311a.js.map133594014287886087 0
+101D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\dist\index.97a9311a.js.map133594020910215989 0
 153D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\convertColors.js133593986440729292 0
 112D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\@parcel\profiler\LICENSE133593986434507916 0
 93D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\@lmdb133593986456592147 1
 156D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\@parcel\core\test\fixtures\targets-default-distdir-none\package.json133593986447482843 0
 101D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\dotenv-expand133593986437224034 1
 140D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\sucrase\dist\types\transformers\FlowTransformer.d.ts133593986446631927 0
-95D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\dist\bg.31e6a2cb.png133594013906154707 0
+95D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\dist\bg.31e6a2cb.png133594020908774616 0
 119D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\caniuse-lite\data\regions\LT.js133593986449979753 0
 115D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\yaml\dist\nodes\Scalar.d.ts133593986447421129 0
 94D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\srcset133593986436723834 1
 121D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\@parcel\graph\lib\ContentGraph.js133593986439453104 0
 121D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\minimatch\dist\commonjs\escape.js133593986438845384 0
+98D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\dist\index.61d3354a.css133594020908805381 0
 85D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\.gitignore133593986985983816 0
 137D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\caniuse-lite\data\features\css-read-only-write.js133593986447428462 0
 125D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\resolve\test\resolver\nested_symlinks133593986440301531 1
@@ -61,6 +63,7 @@
 163D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-gnu.node133593986444292995 0
 112D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\object-hash\package.json133593986436904417 0
 108D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\semver\ranges\gtr.js133593986440219525 0
+102D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\dist\index.61d3354a.css.map133594020908827592 0
 79D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\.env133593982301557301 0
 127D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\@parcel\utils\test\PromiseQueue.test.js133593986444140865 0
 122D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\yaml\browser\dist\nodes\YAMLSeq.js133593986446656309 0
@@ -94,7 +97,7 @@
 112D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\abortcontroller-polyfill133593986439973423 1
 115D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\caniuse-lite\data\agents.js133593986439660671 0
 105D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\boolbase\index.js133593986435813386 0
-79D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\dist133594014287916279 1
+79D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\dist133594020910229153 1
 139D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\@swc\helpers\cjs\_iterable_to_array_limit_loose.cjs133593986443846557 0
 154D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\definition-syntax133593986446137657 1
 120D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\yaml\dist\compose\resolve-end.js133593986445564454 0
@@ -110,7 +113,7 @@
 125D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\svgo\lib\svgo\css-select-adapter.d.ts133593986441755334 0
 121D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\entities\lib\encode-trie.d.ts.map133593986440729292 0
 105D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\@msgpackr-extract133593986456577176 1
-87D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\package.json133593985530225579 0
+87D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\package.json133594020824928120 0
 123D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\path-scurry\dist\esm\index.d.ts.map133593986439063748 0
 169D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\subselects.js133593986439660671 0
 130D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\yaml\dist\stringify\stringifyCollection.js133593986446127591 0
@@ -8869,6 +8872,3 @@
 101D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\node_modules\.bin\yaml.ps1133593986453691310 0
 97D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\dist\index.f5c48570.js133593877509004367 0
 101D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\dist\index.f5c48570.js.map133593877509063837 0
-98D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\dist\index.61d3354a.css133594014243960344 0
-102D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\dist\index.61d3354a.css.map133594014243985402 0
-97D:\anand\Documents\Front End Code\02- Projects\14 - Weather App\my-project\dist\index.97a9311a.js133594014287701815 0
